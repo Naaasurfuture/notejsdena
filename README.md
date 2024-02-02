@@ -1,0 +1,2 @@
+# notejsdena
+Latihan note js
